@@ -18,15 +18,13 @@ export default function Home() {
           <Image src="/logo.svg" alt="logo" width={200} height={200} />
           <div className="mx-auto max-w-4xl text-center ">
             <h1 className="bg-gradient-to-r from-red-600 via-yellow-400 to-orange-500 bg-clip-text text-transparent text-5xl font-bold">
-              Personalized meets for us
+             Important discussion karave हाय नम्रा विनंती
             </h1>
             <h1 className="bg-gradient-to-r from-red-600 via-yellow-400 to-orange-500 bg-clip-text text-transparent text-5xl font-bold">
-              and our friends.
+            फालतू गिरी करने पर अघोर दंड
             </h1>
             <p className="mx-auto mt-6 max-w-xl sm:text-xl/relaxed">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio
-              nisi possimus odit delectus tenetur fuga amet perspiciatis ut
-              accusamus molestias?
+              Cheers To Us for making it to 5th Sem
             </p>
             <div className="flex items-center justify-center gap-4 mt-6 ">
               <input
