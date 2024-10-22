@@ -1,5 +1,4 @@
 "use client";
-import Footer from "@/components/Footer";
 import useUser from "@/hooks/user";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
@@ -70,7 +69,7 @@ export default function Home() {
           </div>
         </section>
       </div>
-      <Footer />
+      
     </div>
   );
 }
